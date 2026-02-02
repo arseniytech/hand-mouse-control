@@ -7,6 +7,7 @@ Control your mouse using your hand and camera gestures!
 ## Installation
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/arseniytech/hand-mouse-control
 cd hand-mouse-control
 pip install -r requirements.txt
+
